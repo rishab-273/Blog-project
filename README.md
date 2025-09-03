@@ -1,5 +1,5 @@
 # Blog-project
-Technologies Used:
+🔧Technologies Used:
 * HTML, CSS
 
 🚀 How to Use:
